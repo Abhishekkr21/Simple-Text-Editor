@@ -21,7 +21,7 @@ A simple text editor created using Python and Tkinter.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-text-editor.git
+   git clone https://github.com/Abhishekkr21/simple-text-editor.git
 cd simple-text-editor
 # If you are using a virtual environment
 python -m venv venv
